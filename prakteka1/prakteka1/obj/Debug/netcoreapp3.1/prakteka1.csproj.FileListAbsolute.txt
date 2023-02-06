@@ -1,0 +1,15 @@
+C:\Users\omarx\source\repos\prakteka1\prakteka1\bin\Debug\netcoreapp3.1\prakteka1.exe
+C:\Users\omarx\source\repos\prakteka1\prakteka1\bin\Debug\netcoreapp3.1\prakteka1.deps.json
+C:\Users\omarx\source\repos\prakteka1\prakteka1\bin\Debug\netcoreapp3.1\prakteka1.runtimeconfig.json
+C:\Users\omarx\source\repos\prakteka1\prakteka1\bin\Debug\netcoreapp3.1\prakteka1.runtimeconfig.dev.json
+C:\Users\omarx\source\repos\prakteka1\prakteka1\bin\Debug\netcoreapp3.1\prakteka1.dll
+C:\Users\omarx\source\repos\prakteka1\prakteka1\bin\Debug\netcoreapp3.1\prakteka1.pdb
+C:\Users\omarx\source\repos\prakteka1\prakteka1\obj\Debug\netcoreapp3.1\prakteka1.csprojAssemblyReference.cache
+C:\Users\omarx\source\repos\prakteka1\prakteka1\obj\Debug\netcoreapp3.1\prakteka1.Form1.resources
+C:\Users\omarx\source\repos\prakteka1\prakteka1\obj\Debug\netcoreapp3.1\prakteka1.csproj.GenerateResource.cache
+C:\Users\omarx\source\repos\prakteka1\prakteka1\obj\Debug\netcoreapp3.1\prakteka1.AssemblyInfoInputs.cache
+C:\Users\omarx\source\repos\prakteka1\prakteka1\obj\Debug\netcoreapp3.1\prakteka1.AssemblyInfo.cs
+C:\Users\omarx\source\repos\prakteka1\prakteka1\obj\Debug\netcoreapp3.1\prakteka1.csproj.CoreCompileInputs.cache
+C:\Users\omarx\source\repos\prakteka1\prakteka1\obj\Debug\netcoreapp3.1\prakteka1.dll
+C:\Users\omarx\source\repos\prakteka1\prakteka1\obj\Debug\netcoreapp3.1\prakteka1.pdb
+C:\Users\omarx\source\repos\prakteka1\prakteka1\obj\Debug\netcoreapp3.1\prakteka1.genruntimeconfig.cache
